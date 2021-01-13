@@ -1,0 +1,8 @@
+classes= 1
+#train&nbsp; =/home/yusuf/darknet/data/train.txt
+#valid&nbsp; =/home/yusuf/darknet/data/test.txt
+
+train  = /home/yusuf/darknet/data/train.txt
+valid  = /home/yusuf/darknet/data/test.txt
+names = /home/yusuf/darknet/cfg/yaya-obj.names
+backup = /home/yusuf/darknet/backup/
